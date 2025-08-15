@@ -6,8 +6,8 @@
 
 <div>
   <a href= "https://beacons.ai/limapedro">
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=limapedro77&show_icons=true&theme=dark#gh-dark-mode-only">
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=limapedro77&size_weight=0.5&count_weight=0.5">
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=limapedro77&show_icons=true&theme=dark">
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=limapedro77&theme=dark">
 </div>
   
   ##
