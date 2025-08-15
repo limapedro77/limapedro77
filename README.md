@@ -1,4 +1,4 @@
-## Hi trhere, i'am Pedro👋
+## Olá, eu sou o Pedro👋
 
 - 🔭 I’m currently working on Full-Stack
 - 🌱 I’m currently learning Python Django
